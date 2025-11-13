@@ -1,0 +1,110 @@
+- blog generation
+  - app.py
+  - README.md
+  - requirements.txt
+- calories health
+  - app.py
+  - README.md
+  - requirements.txt
+  - sqlllm
+    - requirements.txt
+    - sql.py
+    - sqlite.py
+- chat multiple documents
+  - chatpdf1.py
+  - README.md
+  - requirements.txt
+- conversational Q&A chatbot
+  - app.py
+  - langchain.ipynb
+  - README.md
+  - requirements.txt
+- invoice data extractor
+  - .gitignore
+  - .streamlit
+    - config.toml
+  - app.py
+  - README.md
+  - requirements.txt
+- langchain audio to text
+  - .gitignore
+  - .streamlit
+    - config.toml
+  - app.py
+  - README.md
+  - requirements.txt
+- langchain basic qa
+  - .gitignore
+  - .streamlit
+    - config.toml
+  - app.py
+  - README.md
+  - requirements.txt
+- langchain summarization
+  - .gitignore
+  - .streamlit
+    - config.toml
+  - app.py
+  - README.md
+  - requirements.txt
+- LLM generic app
+  - documents
+    - budget_speech.pdf
+  - README.md
+  - requirements.txt
+  - test.ipynb
+- news research tool project
+  - .env
+  - faiss_store_openai.pkl
+  - main.py
+  - notebooks
+    - chunk_size.jpg
+    - faiss_tutorial.ipynb
+    - movies.csv
+    - nvda_news_1.txt
+    - retrieval.ipynb
+    - sample_text.csv
+    - text_loaders_splitters.ipynb
+    - vector_index.pkl
+  - README.md
+  - requirements.txt
+  - rockybot.jpg
+- project codebasics Q&A
+  - .env
+  - codebasics_faqs.csv
+  - codebasics_q_and_a.png
+  - faiss_index
+    - index.faiss
+    - index.pkl
+  - google_palm_codebasics_q_and_a.ipynb
+  - langchain_helper.py
+  - main.py
+  - README.md
+  - requirements.txt
+- Q&A chatbot using LLM
+  - app.py
+  - langchain.ipynb
+  - README.md
+  - requirements.txt
+- sqldb tshirts
+  - .env
+  - atliq_tees.png
+  - database
+    - db_creation_atliq_t_shirts.sql
+  - few_shots.py
+  - langchain_helper.py
+  - main.py
+  - README.md
+  - requirements.txt
+  - t_shirt_sales_llm.ipynb
+- text summarization
+  - README.md
+  - requirements.txt
+  - summarization.ipynb
+- wordpress code assistant
+  - .gitignore
+  - .streamlit
+    - config.toml
+  - app.py
+  - README.md
+  - requirements.txt
